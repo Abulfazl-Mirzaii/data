@@ -1,0 +1,122 @@
+{
+    "meter": {
+        "meter": 1,
+        "kilometer": 0.001,
+        "centimeter": 100,
+        "millimeter": 1000,
+        "inch": 39.3700787,
+        "foot": 3.2808399,
+        "yard": 1.09361,
+        "mile": 0.000621371,
+        "nauticalMile": 0.000539957,
+        "lightYear": 1.057e-16
+    },
+    "kilometer": {
+        "meter": 1000,
+        "kilometer": 1,
+        "centimeter": 100000,
+        "millimeter": 1000000,
+        "inch": 39370.0787,
+        "foot": 3280.8399,
+        "yard": 1093.61,
+        "mile": 0.621371,
+        "nauticalMile": 0.539957,
+        "lightYear": 1.057e-13
+    },
+    "centimeter": {
+        "meter": 0.01,
+        "kilometer": 0.00001,
+        "centimeter": 1,
+        "millimeter": 10,
+        "inch": 0.393700787,
+        "foot": 0.032808399,
+        "yard": 0.0109361,
+        "mile": 0.00000621371,
+        "nauticalMile": 0.00000539957,
+        "lightYear": 1.057e-18
+    },
+    "millimeter": {
+        "meter": 0.001,
+        "kilometer": 0.000001,
+        "centimeter": 0.1,
+        "millimeter": 1,
+        "inch": 0.0393700787,
+        "foot": 0.0032808399,
+        "yard": 0.00109361,
+        "mile": 0.000000621371,
+        "nauticalMile": 0.000000539957,
+        "lightYear": 1.057e-19
+    },
+    "inch": {
+        "meter": 0.0254,
+        "kilometer": 2.54e-5,
+        "centimeter": 2.54,
+        "millimeter": 25.4,
+        "inch": 1,
+        "foot": 0.0833333333,
+        "yard": 0.0277777778,
+        "mile": 1.5783e-5,
+        "nauticalMile": 1.37149e-5,
+        "lightYear": 2.68228e-18
+    },
+    "foot": {
+        "meter": 0.3048,
+        "kilometer": 0.0003048,
+        "centimeter": 30.48,
+        "millimeter": 304.8,
+        "inch": 12,
+        "foot": 1,
+        "yard": 0.3333333333,
+        "mile": 0.0001893939,
+        "nauticalMile": 0.0001645788,
+        "lightYear": 3.21869e-17
+    },
+    "yard": {
+        "meter": 0.9144,
+        "kilometer": 0.0009144,
+        "centimeter": 91.44,
+        "millimeter": 914.4,
+        "inch": 36,
+        "foot": 3,
+        "yard": 1,
+        "mile": 0.00056818182,
+        "nauticalMile": 0.0004937411,
+        "lightYear": 9.65607e-17
+    },
+    "mile": {
+        "meter": 1609.344,
+        "kilometer": 1.609344,
+        "centimeter": 160934.4,
+        "millimeter": 1609344,
+        "inch": 63360,
+        "foot": 5280,
+        "yard": 1760,
+        "mile": 1,
+        "nauticalMile": 0.8689762,
+        "lightYear": 1.893939e-13
+    },
+    "nauticalMile": {
+        "meter": 1852,
+        "kilometer": 1.852,
+        "centimeter": 185200,
+        "millimeter": 1850000,
+        "inch": 72913.4,
+        "foot": 6082.6667,
+        "yard": 2027.5556,
+        "mile": 1.150779,
+        "nauticalMile": 1,
+        "lightYear": 1.613027e-13
+    },
+    "lightYear": {
+        "meter": 9.4607e12,
+        "kilometer": 9.4607e9,
+        "centimeter": 9.4607e14,
+        "millimeter": 9.4607e15,
+        "inch": 3.725266896e13,
+        "foot": 3.1056e13,
+        "yard": 1.035199999e12,
+        "mile": 5.878425445e12,
+        "nauticalMile": 5.103453383e12,
+        "lightYear": 1
+    }
+}
